@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    font-family: "times new roman";
+    font-size: px;
+    color: blue
+  }
+  
+  ul {
+    font-family: monospace;
+  }
+  li {
+    list-style: square;
+  }
+  
+  .list {
+    list-style: square;
+  }
+  
+  #date {
+    font-size: 12px;
+    font-style: italic;
+    font-weight: bold;
+  }
+  .b {
+    border: 10px double black ;
+    display: inline-block;
+    margin: 1%;
+    width: 30%;
+    height: 100px;
+    color: white;
+    font-size: 40px;
+    background-color: darkgrey;
+    background-image: url("balloon_img.jpg");
+  }
+
+  .bo {
+    border: 10px darkblue ;
+    color: darkblue;
+    font-size: 20px;
+  }
+  
+  
